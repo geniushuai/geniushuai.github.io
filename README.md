@@ -1,2 +1,2 @@
-# pvz95.github.io
+# pvz95
 植物大战僵尸95版
