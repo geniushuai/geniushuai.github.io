@@ -9,3 +9,5 @@ markdonw: kramdown
 author:
   name: pvz95
   email: admin@pvz95.com
+github:
+  is_user_page: false
