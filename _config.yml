@@ -1,10 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 title: 植物大战僵尸95版站
 description: 植物大战僵尸95版站提供最齐全的《植物大战僵尸95版》攻略和版本信息。包括资源下载等产品服务,提供原创、优质、完整、专业的《植物大战僵尸95版》资讯
 url: https://pvz95.com
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 markdonw: kramdown
 author:
   name: pvz95
