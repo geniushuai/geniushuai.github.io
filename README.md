@@ -31,7 +31,3 @@
 
 更多的内容可以到[植物大战僵尸百科](https://pvzbaike.com)的[植物大战僵尸95版下载](https://pvzbaike.com/pvz95_version)专题中获得
 
----
-## 热门文章
-[游戏叙事重要性：《植物大战僵尸95版》中的故事讲述与情感共鸣](https://pvz95.com/posts/2024/05/21/pvz95-version-0159926171.html)
-
